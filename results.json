@@ -1,0 +1,22 @@
+{
+  "invalid": [],
+  "failed": [],
+  "excluded": [],
+  "passed": [
+    {
+      "line": 15,
+      "module": "Elixir.ListLengthTest",
+      "file": "/home/libero/www/rocketseat/ignite/elixir/elixir-challenge-1/test/list_lenght_test.exs",
+      "test": "test call/1 passing an empty list",
+      "describe": "call/1"
+    },
+    {
+      "line": 5,
+      "module": "Elixir.ListLengthTest",
+      "file": "/home/libero/www/rocketseat/ignite/elixir/elixir-challenge-1/test/list_lenght_test.exs",
+      "test": "test call/1 count list elements",
+      "describe": "call/1"
+    }
+  ],
+  "skiped": []
+}
